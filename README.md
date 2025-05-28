@@ -96,3 +96,5 @@ Fine-tuned alarm thresholds to reduce false positives and enhance monitoring acc
 Monitored CloudWatch logs and historical data to optimize system performance and cost efficiency.
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/f3068524-8734-455d-b7da-07250343bc86)
+
