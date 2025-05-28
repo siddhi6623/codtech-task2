@@ -94,3 +94,5 @@ Configured graphical widgets for a clearer view of CPU, memory, network usage, a
 Fine-tuned alarm thresholds to reduce false positives and enhance monitoring accuracy.
 
 Monitored CloudWatch logs and historical data to optimize system performance and cost efficiency.
+OUTPUT:
+
